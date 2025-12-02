@@ -29,6 +29,7 @@ file structure of dot files may be different but i include some of them here:
     ├── xsettingsd
     │   └── xsettingsd.conf
     ├── plasmashellrc
+    ├── kglobalshortcutsrc
     ├── plasma-localerc
     ├── plasma-org.kde.plasma.desktop-appletsrc
     └── kitty

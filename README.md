@@ -7,6 +7,7 @@ This repo contains my own linux dotfiles.
 
 file structure of dot files may be different but i include some of them here:
 
+```
 ~
 ├── fish
 │   ├── completions
@@ -32,3 +33,4 @@ file structure of dot files may be different but i include some of them here:
 ├── plasma-org.kde.plasma.desktop-appletsrc
 └── kitty
     └── kitty.conf
+```

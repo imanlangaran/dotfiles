@@ -1,5 +1,16 @@
 onboarding = false
 
+[keys]
+# Agents
+focus_agent        = "alt+1..9"
+next_agent         = "alt+]"
+previous_agent     = "alt+["
+
+# Workspaces
+switch_workspace   = "alt+shift+1..9"
+next_workspace     = "alt+shift+]"
+previous_workspace = "alt+shift+["
+
 [theme]
 name = "tokyo-night"
 auto_switch = false
